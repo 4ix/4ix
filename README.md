@@ -17,7 +17,7 @@ Python 언어를 이용한 라이브러리 활용에 익숙합니다.
 
 <div align="left">
  
-  #### It became mine...
+  #### It became mine... :gem:
   <img src="https://img.shields.io/badge/HTML-d00000?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1a759f?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
