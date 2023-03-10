@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=085c76&height=200&section=header&text=On%20putting%20a%20ding%20in%20the%20universe.%20&fontSize=45&animation=fadeIn&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?type=waving&color=085c76&height=200&section=header&text=On%20putting%20a%20ding%20in%20the%20universe.%20🧑‍🚀&fontSize=45&animation=fadeIn&fontColor=333333)
 ### 안녕하세요. :wave:
 데이터 엔지니어링 및 자연어 처리 직무에 흥미를 많이 느낍니다.
 Python 언어를 이용한 라이브러리 활용에 익숙합니다.
