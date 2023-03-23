@@ -4,16 +4,22 @@
 Python 언어를 이용한 라이브러리 활용에 익숙합니다.
 블록체인 NFT 프로젝트(FrontEnd 및 BackEnd)를 진행한 경험이 있습니다.
 
+#### 참여한 프로젝트(A.I.) 🌞
+|                |Name                                                              |Goal                                                                  |
+|:--------------:|------------------------------------------------------------------|----------------------------------------------------------------------|
+|Project         |[Generative Youtube](https://github.com/4ix/ai_project_final)     |누구나 손쉽게 유튜브용 영상 제작하기                                     |
+
+
 #### 데이터기반 인공지능 시스템 엔지니어 양성 과정(22.12 ~ 23. 05) :book:
-|                |Class                                                             |Project                                                               |Mastery|
-|:--------------:|------------------------------------------------------------------|----------------------------------------------------------------------|-------|
-|Subject         |[Python and Algorithm](https://github.com/4ix/ai_class_algorithm) |                                                                      |-------|
-|                |[Pandas](https://github.com/4ix/ai_class_pandas)                  |[김치왜함](https://github.com/4ix/ai_project_semi)                     |-------|
-|                |[MySql](https://github.com/4ix/ai_class_mysql)                    |                                                                      |-------|
-|                |[Machine Learning](https://github.com/4ix/ai_class_ml)            |[kaggle_titanic](https://github.com/4ix/ai_project_ml)                |-------|
-|                |[Deep Learning](https://github.com/4ix/ai_class_dl)               |[LSTM을 활용한 이더리움 가격 예측](https://github.com/4ix/ai_project_dl)|-------|
-|                |[Computer Vision](https://github.com/4ix/ai_class_cv)             |[Collage Mosaic Generator](https://github.com/4ix/ai_project_cv)      |-------|
-|                |[Natural Language Processing](https://github.com/4ix/ai_class_nlp)|                                                                      |-------|
+|                |Class                                                             |Project                                                               |
+|:--------------:|------------------------------------------------------------------|----------------------------------------------------------------------|
+|Subject         |[Python and Algorithm](https://github.com/4ix/ai_class_algorithm) |                                                                      |
+|                |[Pandas](https://github.com/4ix/ai_class_pandas)                  |[김치왜함](https://github.com/4ix/ai_project_semi)                     |
+|                |[MySql](https://github.com/4ix/ai_class_mysql)                    |                                                                      |
+|                |[Machine Learning](https://github.com/4ix/ai_class_ml)            |[kaggle_titanic](https://github.com/4ix/ai_project_ml)                |
+|                |[Deep Learning](https://github.com/4ix/ai_class_dl)               |[LSTM을 활용한 이더리움 가격 예측](https://github.com/4ix/ai_project_dl)|
+|                |[Computer Vision](https://github.com/4ix/ai_class_cv)             |[Collage Mosaic Generator](https://github.com/4ix/ai_project_cv)      |
+|                |[Natural Language Processing](https://github.com/4ix/ai_class_nlp)|                                                                      |
 
 <div align="left">
  
